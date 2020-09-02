@@ -1,10 +1,11 @@
 import React from 'react';
-const Lyaout = () => {
+const Layout = () => {
   return (
     <div>
       <header/>
-      
+        
       <footer/>
     </div>
   )
 }
+export default Layout
