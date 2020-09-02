@@ -7,7 +7,7 @@ import recipeStyles from './recipe.module.scss'
 const RecipePage = () => {
 
     return (
-    <Layout>
+    <Layout className={recipeStyles.recipeList}>
         <h1>Recipe</h1>
         <p>Recipes will show up here later on</p>
     </Layout>
