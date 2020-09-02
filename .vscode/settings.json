@@ -1,0 +1,14 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "react"
+    ],
+    "eslint.run": "onSave"
+}
