@@ -1,0 +1,29 @@
+.recipeList {
+  list-style: none;
+  margin: 0;
+}
+
+.post {
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: #f4f4f4;
+
+  &:hover {
+    background-color: #e4e4e4;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  h2 {
+    margin-bottom: 0;
+  }
+
+  p {
+    color: #777;
+    font-size: .8rem;
+    font-style: italic;
+  }
+}
