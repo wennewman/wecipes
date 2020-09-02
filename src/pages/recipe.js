@@ -1,5 +1,8 @@
 import React from 'react';
+
 import Layout from '../components/layout';
+import recipeStyles from './recipe.module.scss'
+
 
 const RecipePage = () => {
 
