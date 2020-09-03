@@ -2,6 +2,7 @@
 title: "Banana and date cake"
 date: "2020-09-03"
 categories: "afternoon-tea"
+author: "Wen"
 description: "Seems I've a lot of afternoon tea recipes.  This is a completely made up recipe using remains of eggs from ricotta gnocchi."
 ---
 
