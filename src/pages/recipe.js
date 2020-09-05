@@ -23,8 +23,6 @@ const RecipePage = () => {
             }
         }
         `)
-   
-        console.log(data);
     return (
     <Layout className={recipeStyles.recipeList}>
         <h1>Recipe</h1>

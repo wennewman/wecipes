@@ -1,6 +1,9 @@
 .recipeList {
   list-style: none;
   margin: 0;
+  li {
+    text-decoration: none;
+  }
 }
 
 .post {
