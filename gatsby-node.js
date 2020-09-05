@@ -36,7 +36,7 @@ module.exports.createPages = async ({graphql, actions}) => {
     `)
 
     res.data.allMarkdownRemark.edges.forEach ((edge) => {
-        createPage( {
+        createPage({
             component: recipeTemplate,
             path: `/recipe/${edge.node.fields.slug}`,
             context: {
