@@ -1,11 +1,13 @@
 import React from 'react';
 import {Link} from 'gatsby';
 import Layout from '../components/layout';
+import Head from '../components/head';
 
 const AboutPage = () => {
  
     return (
     <Layout>
+      <Head title="About"/>
         <h1>About Wecipes</h1>
         <p>I'm the author of most of these recipes unless credited otherwise.  I'm a travelled home cook who takes inspiration from whatever is going on around me.</p>
         <p>I'm a relentless feeder, so I take food with me wherever I go, and am often asked for the recipe of what I have brought.  As I don't ever use recipes, I struggle and cannot be bothered to write them out for peeps; hence this site. </p>
