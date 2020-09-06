@@ -1,3 +1,5 @@
+npm install gatsby-plugin-sharp gatsby-remark-images gatsby-remark-relative-images
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
