@@ -18,7 +18,7 @@ module.exports.onCreateNode = ({node, actions }) => {
 module.exports.createPages = async ({graphql, actions}) => {
     const {createPages} = actions
     //get path to template
-    const recipeTemplate = path.resolve('./templates/recipe.js')
+    const recipeTemplate = path.resolve('./src/templates/recipe.js')
     //use the graphql function and pass it the query as a string
     //this function returns a promise
     const res = await graphql(`
