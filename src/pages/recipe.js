@@ -26,12 +26,12 @@ const RecipePage = () => {
         }
     `)
     return (
-    <Layout className={recipeStyles.recipeList}>
+    <Layout >
         <h1>Recipe</h1>
-        <ol>
+        <ol className={recipeStyles.recipeList}>
             {data.allMarkdownRemark.edges.map((edge) => {
                 return(
-                    <li>
+                    <li className={recipeStyles.recipe}>
                         <Link to = {`/recipe/${edge.node.fields.slug}`}>
                                 <h2>{edge.node.frontmatter.title}</h2>
                                 <p>Added on {edge.node.frontmatter.date}</p>
