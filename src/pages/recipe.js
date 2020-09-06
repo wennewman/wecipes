@@ -24,7 +24,7 @@ const RecipePage = () => {
                 }
             }
         }
-        `)
+    `)
     return (
     <Layout className={recipeStyles.recipeList}>
         <h1>Recipe</h1>
@@ -32,10 +32,12 @@ const RecipePage = () => {
             {data.allMarkdownRemark.edges.map((edge) => {
                 return(
                     <li>
-                        <h2>{edge.node.frontmatter.title}</h2>
-                        <p>Added on {edge.node.frontmatter.date}</p>
-                        <p>{edge.node.frontmatter.categories}</p>
-                        <p>{edge.node.frontmatter.description}</p> 
+                        <Link to = {`/recipe/${edge.node.fields.slug}`}>
+                                <h2>{edge.node.frontmatter.title}</h2>
+                                <p>Added on {edge.node.frontmatter.date}</p>
+                                <p>{edge.node.frontmatter.categories}</p>
+                                <p>{edge.node.frontmatter.description}</p> 
+                        </Link>
                     </li>
                 )
             })}
