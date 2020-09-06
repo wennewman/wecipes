@@ -34,7 +34,8 @@ module.exports.createPages = async ({graphql, actions}) => {
         }
       }
     `)
-
+ 
+        //create new pages
     res.data.allMarkdownRemark.edges.forEach ((edge) => {
         createPage({
             component: recipeTemplate,
@@ -43,8 +44,5 @@ module.exports.createPages = async ({graphql, actions}) => {
                 slug: edge.node.fields.slug
             }
         })
-    })
-
-    //get markdown data
-    //create new pages
+    })    
 }
