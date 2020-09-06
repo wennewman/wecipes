@@ -1,7 +1,8 @@
-import React from 'react'
-import { graphql } from 'gatsby'
+import React from 'react';
+import { graphql } from 'gatsby';
 
-import Layout from '../components/layout'
+import Layout from '../components/layout';
+import Head from '../components/head';
 
 export const query = graphql`
     query ($slug: String!) {
@@ -21,6 +22,7 @@ export const query = graphql`
 const Recipe = (props) => {
    return (
        <Layout>
+       <Head title={props.data.markdownRemark.frontmatter.title}/>
             <h1>{props.data.markdownRemark.frontmatter.title}</h1>
             <p>{props.data.markdownRemark.frontmatter.date}</p>
             <p>{props.data.markdownRemark.frontmatter.categories}</p>
