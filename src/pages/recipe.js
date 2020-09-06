@@ -1,9 +1,8 @@
 import React from 'react';
-import { graphql, useStaticQuery } from 'gatsby';
+import { Link, graphql, useStaticQuery } from 'gatsby';
 
 import Layout from '../components/layout';
 import recipeStyles from './recipe.module.scss'
-
 
 const RecipePage = () => {
 
