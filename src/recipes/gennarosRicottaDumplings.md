@@ -5,6 +5,8 @@ categories: "dinnner"
 author: "Two Greedy Italians"
 description: "This is apparently Gennaro's mum's recipe, but as I use it all the time, I have added it here.  Nothing better than home made gnocchi"
 ---
+![Ricotta dumplings](./ricottaGnocchi.png)
+
 ###Ingredients
 200g Italian OO flour  
 220g full fat ricotta cheese  
