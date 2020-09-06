@@ -1,28 +1,26 @@
 .recipeList {
   list-style-type: none;
   margin: 0;
-  li {
-    text-decoration: none;
-  }
 }
 
 .recipe {
+  
   margin: 1rem 0;
-  padding: 1rem;
-  background-color: #f4f4f4;
-
-  &:hover {
-    background-color: #e4e4e4;
-  }
-
   a {
-    color: #000;
-    text-decoration: none;
+      background: #f4f4f4;
+      color: #000000;
+      text-decoration: none;
+      display: block;
+      padding: 1rem;
+    }
+  
+  a:hover {
+    background-color: #e4e4e4;
   }
 
   h2 {
     margin-bottom: 0;
-  }
+    }
 
   p {
     color: #777;
