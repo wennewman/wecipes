@@ -1,5 +1,5 @@
 ---
-title: "cupCakes"
+title: "Cup cakes"
 date: "2020-08-08"
 categories: "afternoon-tea"
 author: "Lockington Primary School cook book"
