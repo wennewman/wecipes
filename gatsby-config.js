@@ -9,6 +9,7 @@ module.exports = {
     title: 'My recipe book',
     author: 'Ed Winchester'
   },
+
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
@@ -24,15 +25,16 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-            'gatsby-remark-relative-images', 
-             {
-                resolve: 'gatsby-remark-images',
-                options: {
-                  maxWidth: 750,
-                  linkImagesToOriginal: false
-                }
+          'gatsby-remark-relative-images',
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 750,
+              linkImagesToOriginal: false
             }
-          ]
+          }
+        ]
       }
+    }
   ]
 }

@@ -1,9 +1,9 @@
-import React from 'react';
-import { Link, graphql, useStaticQuery } from 'gatsby';
+import React from 'react'
+import { Link, graphql, useStaticQuery } from 'gatsby'
 
-import Layout from '../components/layout';
-import Head from '../components/head;
-import recipeStyles from './recipe.module.scss';
+import Layout from '../components/layout'
+import Head from '../components/head'
+import recipeStyles from './recipe.module.scss'
 
 const RecipePage = () => {
 
@@ -28,7 +28,7 @@ const RecipePage = () => {
     `)
     return (
     <Layout >
-      <Head title="Recipe"/>
+      <Head title="Recipes"/>
         <h1>Recipe</h1>
         <ol className={recipeStyles.recipeList}>
             {data.allMarkdownRemark.edges.map((edge) => {
@@ -39,7 +39,7 @@ const RecipePage = () => {
                                 <p>Added on {edge.node.frontmatter.date}</p>
                                 <p>{edge.node.frontmatter.categories}</p>
                                 <p>{edge.node.frontmatter.description}</p> 
-                        </Link>
+                        </Link>            
                     </li>
                 )
             })}

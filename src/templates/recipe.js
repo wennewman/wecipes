@@ -27,7 +27,7 @@ const Recipe = (props) => {
             <p>{props.data.markdownRemark.frontmatter.date}</p>
             <p>{props.data.markdownRemark.frontmatter.categories}</p>
             <p>{props.data.markdownRemark.frontmatter.author}</p>
-            <div dangerouslySetInnerHTML={{___html: props.data.markdownRemark.frontmatter.html}}</div>
+            <div dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
        </Layout>
    )
 }

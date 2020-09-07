@@ -1,12 +1,13 @@
 const path = require('path')
 
-module.exports.onCreateNode = ({node, actions }) => {
+module.exports.onCreateNode = ({ node, actions }) => {
 
     const { createNodeField } = actions
-
+    //add slug to markdown nodes
     if (node.internal.type === 'MarkdownRemark') {
 
-        const slug = path.basename(node.fileAbsolutePath, '.md');
+        const slug = path.basename(node.fileAbsolutePath, '.md')
+
         createNodeField( {
             node, 
             name: 'slug',
@@ -15,8 +16,8 @@ module.exports.onCreateNode = ({node, actions }) => {
     }
 }
 
-module.exports.createPages = async ({graphql, actions}) => {
-    const {createPages} = actions
+module.exports.createPages = async ({ graphql, actions }) => {
+    const { createPage } = actions
     //get path to template
     const recipeTemplate = path.resolve('./src/templates/recipe.js')
     //use the graphql function and pass it the query as a string
