@@ -29,7 +29,7 @@ const RecipePage = () => {
     return (
     <Layout >
       <Head title="Recipes"/>
-        <h1>Recipe</h1>
+        <h1>Recipes.</h1>
         <ol className={recipeStyles.recipeList}>
             {data.allMarkdownRemark.edges.map((edge) => {
                 return(

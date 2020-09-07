@@ -10,7 +10,7 @@ export const query = graphql`
             fields: { slug: { eq: $slug } }) {
         frontmatter {
             title
-            date(formatString: "Do, MMMM, YYYY")
+            date(formatString: "Do MMMM, YYYY")
             categories
             author
             description
