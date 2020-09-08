@@ -33,12 +33,12 @@ const RecipePage = () => {
         <ol className={recipeStyles.recipeList}>
             {data.allMarkdownRemark.edges.map((edge) => {
                 return(
-                    <li className={recipeStyles.recipe}>
+                    <li className={ recipeStyles.recipe }>
                         <Link to = {`/recipe/${edge.node.fields.slug}`}>
-                                <h2>{edge.node.frontmatter.title}</h2>
-                                <p>Added on {edge.node.frontmatter.date}</p>
-                                <p>{edge.node.frontmatter.categories}</p>
-                                <p>{edge.node.frontmatter.description}</p> 
+                                <h2>{ edge.node.frontmatter.title }</h2>
+                                <p>Added on { edge.node.frontmatter.date }</p>
+                                <p className={ recipeStyles.category }><span>{ edge.node.frontmatter.categories }</span></p>
+                                <p>{ edge.node.frontmatter.description }</p> 
                         </Link>            
                     </li>
                 )

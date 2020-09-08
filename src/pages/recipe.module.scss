@@ -17,14 +17,25 @@
   a:hover {
     background-color: #e4e4e4;
   }
+  a:visited {
+    color:#FF652F;
+
+  }
 
   h2 {
     margin-bottom: 0;
     }
 
   p {
-    color: #777;
+    color: #272727;
     font-size: .8rem;
     font-style: italic;
+  }
+  .category span{
+    background-color: #272727;
+    color: #e4e4e4;
+    padding: 8px 8px 8px 8px;
+    border-radius: 5px;
+    
   }
 }
