@@ -2,7 +2,7 @@
 title: "Coconut rough biscuits"
 date: "2020-08-09"
 categories: "afternoon-tea"
-author: "Wen"
+credit: "Wen"
 description: "Totes made this up.  Rad"
 ---
 ###Ingredients

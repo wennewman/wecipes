@@ -17,19 +17,15 @@
   a:hover {
     background-color: #e4e4e4;
   }
-  a:visited {
-    color:#FF652F;
 
-  }
 
   h2 {
     margin-bottom: 0;
     }
 
   p {
-    color: #272727;
-    font-size: .8rem;
-    font-style: italic;
+    color: #000;
+    //font-size: .8rem;
   }
   .category span{
     background-color: #272727;
@@ -38,4 +34,9 @@
     border-radius: 5px;
     
   }
+  .categoryContainer {
+    display: flex;
+    
+  }
+
 }

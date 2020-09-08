@@ -1,10 +1,9 @@
 //gatsby-plugin-sass
 //npm install gatsby-plugin-sass node-sass
 /* Reset provided by https://github.com/gatsbyjs/gatsby-starter-blog via MIT license */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 html {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Anonymous Pro', monospace;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -73,6 +72,7 @@ dfn {
   font-style: italic;
 }
 h1 {
+  font-family: 'Tinue Road', monospace;
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -248,6 +248,7 @@ h1 {
   color: #272727;
 }
 h2 {
+  font-family: 'MajorMonoDisplay-Regular', monospace;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;

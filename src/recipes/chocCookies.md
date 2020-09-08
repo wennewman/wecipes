@@ -2,7 +2,7 @@
 title: "Chocolate peanut butter biscuits"
 date: "2020-08-08"
 categories: "afternoon-tea"
-author: "Wen"
+credit: "Wen"
 description: "Totes made this up. Good biscuit"
 ---
 

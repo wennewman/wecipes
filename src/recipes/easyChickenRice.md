@@ -2,7 +2,7 @@
 title: "One pot chicken and rice"
 date: "2020-07-27"
 categories: "dinnner"
-author: "Unknown"
+credit: "Unknown"
 description: "This recipe got my rice averse small person eating rice, so I guess that means its a good family dinner.  Credit, some magazine which I cut out from many moons ago, and myself for making it better."
 ---
 You can cook this in a pan on the cook top or bake in the oven.  You could even do in the pressure cooker - probably take about 10 minutes once it is up to pressure (I've not tried that yet)

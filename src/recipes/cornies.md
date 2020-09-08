@@ -2,7 +2,7 @@
 title: "Cornflake biscuits"
 date: "2020-09-03"
 categories: "afternoon-tea"
-author: "Yvonne"
+credit: "Yvonne"
 description: "Sweet biscuits with sultanas and rolled in corn flakes."
 ---
 

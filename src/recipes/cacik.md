@@ -2,7 +2,7 @@
 title: "Cacik"
 date: "2020-08-06"
 categories: "afternoon-tea dip"
-author: "unknown"
+credit: "unknown"
 description: "Yummy Turkish yoghurt and cucumber dip"
 ---
 

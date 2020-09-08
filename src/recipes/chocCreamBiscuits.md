@@ -2,7 +2,7 @@
 title: "Chocolate cream biscuits"
 date: "2020-08-18"
 categories: "afternoon-tea"
-author: "Yvonne"
+credit: "Yvonne"
 description: "These are mum's chocolate forcer biscuits.  She made them only occasionally as a treat and we totally devoured them"
 ---
 ###Ingredients
