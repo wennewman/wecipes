@@ -7,7 +7,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Scrap paper no more...',
-    author: 'Ed Winchester'
+    author: 'Ed Winchester test kitchen'
   },
 
   plugins: [

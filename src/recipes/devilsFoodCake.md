@@ -2,7 +2,7 @@
 title: "Devil's food cake"
 date: "2020-08-08"
 categories: "afternoon-tea"
-author: "70s recipe cards"
+credit: "70s recipe cards"
 description: "Brilliant flavoured rich chocolate cake"
 ---
 ###Ingredients

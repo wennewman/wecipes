@@ -2,7 +2,7 @@
 title: "Gennaro's ricotta dumplings"
 date: "2020-08-14"
 categories: "dinnner"
-author: "Two Greedy Italians"
+credit: "Two Greedy Italians"
 description: "This is apparently Gennaro's mum's recipe, but as I use it all the time, I have added it here.  Nothing better than home made gnocchi"
 ---
 ![Ricotta dumplings](./ricottaGnocchi.png)
