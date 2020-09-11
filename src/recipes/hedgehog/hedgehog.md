@@ -1,6 +1,6 @@
 ---
 title: "Hedgehog"
-date: "2020-08-"
+date: "2020-08-24"
 categories: "afternoon-tea"
 author: "Yvonne"
 description: "This is mum's recipe.  I've not verified this one for years.  You can make the whole thing in a large saucepan."
