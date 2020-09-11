@@ -1,21 +1,26 @@
 .recipeList {
   list-style-type: none;
   margin: 0;
+  
 }
 
-.recipe {
-  
-  margin: 1rem 0;
+
+.recipe {  
   a {
-      background: #f4f4f4;
-      color: #000000;
-      text-decoration: none;
-      display: block;
-      padding: 1rem;
+    border-radius: 10px;
+    background: #1A8898;
+    color: #000000;
+    text-decoration: none;
+    display: block;
+    padding: 1rem;
+    margin: 1rem 0;
     }
   
   a:hover {
     background-color: #e4e4e4;
+  }
+  h1 {
+
   }
 
 
@@ -25,18 +30,19 @@
 
   p {
     color: #000;
-    //font-size: .8rem;
+    font-size: .8rem;
   }
   .category span{
     background-color: #272727;
     color: #e4e4e4;
     padding: 8px 8px 8px 8px;
-    border-radius: 5px;
+    border-radius: 20px;
+    margin-right: 10px;
     
   }
   .categoryContainer {
     display: flex;
-    
+    align-items: flex-start;
   }
 
 }

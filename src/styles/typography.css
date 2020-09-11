@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "Font Name";
-    src:    url("../fonts/AnonymousPro-Bold.ttf") format("truetype"),
-            url("../fonts/AnonymousPro-BoldItalic") format("truetype"),
-            url("../fonts/AnonymousPro-Italic") format("truetype"),
-            url("../fonts/AnonymousPro-Regular") format("truetype"),
-            url("../fonts/MajorMonoDisplay-Regular") format("truetype"),
-            url("../fonts/Tinue Road") format("truetype")
-  }

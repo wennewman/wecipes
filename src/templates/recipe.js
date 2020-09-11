@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import Head from '../components/head';
-import recipeStyles from '../pages/recipe.module.scss';
+import templateStyles from './template.module.scss'
 
 export const query = graphql`
     query ($slug: String!) {
@@ -13,7 +13,7 @@ export const query = graphql`
             title
             date(formatString: "Do MMMM, YYYY")
             categories
-            author
+            credit
             description
         }
         html
@@ -24,13 +24,15 @@ const Recipe = (props) => {
    return (
        <Layout>
        <Head title={props.data.markdownRemark.frontmatter.title}/>
-            <h1>{props.data.markdownRemark.frontmatter.title}</h1>
-            <p>{props.data.markdownRemark.frontmatter.date}</p>
-                <span className={recipeStyles.categoryContainer}> 
-                { props.data.markdownRemark.frontmatter.categories.split(' ').map(category => 
-                    <p className={ recipeStyles.category }><span>{ category }</span></p>) } 
-                </span>
-            <p>{props.data.markdownRemark.frontmatter.credit}</p>
+            <div className={templateStyles.metaContainer}>
+                <h1>{props.data.markdownRemark.frontmatter.title}</h1>
+                <p>Added: {props.data.markdownRemark.frontmatter.date}</p>
+                <p>Credit: {props.data.markdownRemark.frontmatter.credit}</p>
+                    <span> 
+                    { props.data.markdownRemark.frontmatter.categories.split(' ').map(category => 
+                        <p><span>{ category }</span></p>) } 
+                    </span>
+            </div>
             <div dangerouslySetInnerHTML={{__html: props.data.markdownRemark.html}}></div>
        </Layout>
    )

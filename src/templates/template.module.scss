@@ -1,0 +1,22 @@
+h1 {
+}
+
+    .category span{
+      background-color: #272727;
+      color: #e4e4e4;
+      padding: 8px 8px 8px 8px;
+      border-radius: 5px;
+      
+    }
+    .categoryContainer {
+      display: flex;
+      justify-content: flex-start;
+    }
+    .metaContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-flow: row wrap;
+    }
+  
+  

@@ -13,14 +13,17 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'src',
-        path: `${__dirname}/src/`
+        path: `${__dirname}/src/`,
       }
     },
+    
     'gatsby-plugin-sharp',
+    
     {
       resolve: 'gatsby-transformer-remark',
       options: {

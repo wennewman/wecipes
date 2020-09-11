@@ -1,32 +1,39 @@
 .header {
-  padding: 1rem 0 3rem;
-}
-h1 {
-  font-family: 'Tinue Road', monospace;
-  text-decoration: none;
+ padding: 1rem 0 3rem;
 }
 
+
 .title {
-  color: #000;
+  
   font-size: 3rem;
   margin-bottom: 1.3rem;
+  text-decoration: none;
+  font-size: 1.2em;
+  margin: 0.67em 0;
+  color: #898912;
+
+}
+.title:visited {
+  color:  #898912;
 }
 
 .nav-list {
   display: flex;
+  justify-content: flext-start;
   list-style-type: none;
-  margin: 1.3rem 0 0 0;
+
+  
 }
 
 .nav-item {
   color: #999;
-  font-size: .9rem;
   margin-right: 1.3rem;
   text-decoration: none;
 
   &:hover {
     color: #666;
   }
+  
 }
 
 .active-nav-item {

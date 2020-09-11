@@ -36,7 +36,6 @@ const RecipePage = () => {
                     <li className={ recipeStyles.recipe }>
                         <Link to = {`/recipe/${edge.node.fields.slug}`}>
                                 <h2>{ edge.node.frontmatter.title }</h2>
-                                <p>Added on { edge.node.frontmatter.date }</p>
                                     <span className={recipeStyles.categoryContainer}> 
                                     { edge.node.frontmatter.categories.split(' ').map(category => 
                                      <p className={ recipeStyles.category }><span>{ category }</span></p>) } 
