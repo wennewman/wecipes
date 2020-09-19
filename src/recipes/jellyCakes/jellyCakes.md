@@ -2,7 +2,7 @@
 title: "Jelly cakes"
 date: "2020-08-17"
 categories: "afternoon-tea"
-author: "Yvonne"
+credit: "Yvonne"
 description: "Mum wrote this one out in the book but I haven't tried it.  Hopefully they are as good as Georgie McLeod"
 ---
 ###Ingredients

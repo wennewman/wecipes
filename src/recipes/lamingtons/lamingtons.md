@@ -2,7 +2,7 @@
 title: "Lamingtons"
 date: "2020-08-17"
 categories: "afternoon-tea"
-author: "Yvonne"
+credit: "Yvonne"
 description: "Mum defines this as a one egg sandwich but declares it as good for lamington sponge; so here goes.  I have never made this."
 ---
 ###Ingredients
