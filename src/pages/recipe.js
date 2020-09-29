@@ -32,14 +32,14 @@ const RecipePage = () => {
         <h1>Recipes.</h1>
         <ol className={recipeStyles.recipeList}>
             {data.allMarkdownRemark.edges.map((edge) => {
-                const { fields, frontmatter: { title, description, categories ='' }} = edge.node;
-               // console.log(frontmatter, categories);
+                const { fields, frontmatter: { title, description, categories = ' '}} = edge.node;
+               // console.log(frontmatter, categories); 
                 return(
                     <li className={ recipeStyles.recipe }>
                         <Link to = {`/recipe/${fields.slug}`}>
                                 <h2>{ title }</h2>
                                     <span className={recipeStyles.categoryContainer}> 
-                                    { ''.split(' ').map(category => 
+                                    { categories.split(' ').map(category => 
                                      <p className={ recipeStyles.category }><span>{ category }</span></p>) } 
                                     </span>
                                 <p>{ description }</p> 

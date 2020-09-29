@@ -1,4 +1,3 @@
-
 ---
 title: "Mexi meat"
 date: "2020-08-17"

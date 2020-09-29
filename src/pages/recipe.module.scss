@@ -4,24 +4,21 @@
   
 }
 
-
 .recipe {  
   a {
     border-radius: 10px;
-    background: #1A8898;
+    background: #9e9e15;
     color: #000000;
     text-decoration: none;
     display: block;
-    padding: 1rem;
+    padding: 0 15px 15px 15px;
     margin: 1rem 0;
     }
   
   a:hover {
     background-color: #e4e4e4;
   }
-  h1 {
 
-  }
 
 
   h2 {
@@ -30,14 +27,15 @@
 
   p {
     color: #000;
-    font-size: .8rem;
   }
   .category span{
-    background-color: #272727;
-    color: #e4e4e4;
+    color: #272727;
+    background-color: #e4e4e4;
     padding: 8px 8px 8px 8px;
-    border-radius: 20px;
+    border-radius: 10px;
     margin-right: 10px;
+    font-size: .9rem;
+    font-weight: bold;
     
   }
   .categoryContainer {
