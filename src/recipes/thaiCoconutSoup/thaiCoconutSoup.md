@@ -8,36 +8,36 @@ description: "Where to begin.  Credit Liz Baulch for this one.  Lizzy and I met 
 ###Ingredients
 
 1 large onion  
-2 red shallots  
-1 bunch of coriander including roots  
-1 bunch of flat parsley  
+1 bunch coriander including roots  
+1 bunch flat parsley  
+1 bunch fresh mint
 1 bunch of fresh dill  
 1 head of garlic  
 4cm square piece of peeled ginger  
-1 x 425g tin of pilchards in brine  
-2 red chillies  
+1 x 425g tin of pilchards in brine (drained)  
+6 red chillies (take out the seeds depending on the kind of chillies you are using)  
 100g drained green peppercorns   
 juice and zest of 1 lime  
-¼ cup soy sauce  
-2tbs fish sauce  
-2 x 420g cans of coconut milk  
-500g chicken fillets  
+4 tbsp cup soy sauce  
+4 tbsp fish sauce  
+1 ltr coconut milk  
+500g chicken thighs (bones in if you like)  
 200g rice noodles  
 2 lightly beaten eggs  
 300g snake beans  
-1 head of chinese broccoli, chopped  
 1 large chopped red pepper  
-1 cup of chopped shiitake or other mixed mushrooms  
+¼ diced pumpkin
 black pepper  
 1 tbsp sugar  
-lime wedges, dill, coriander, chilli  
+lime wedges, dill, coriander, chilli for garnish  
 ###Method
-1. In large 2-3 litre pot, boil onion in 2 litres of water until the onion is soft/soggy.Remove the onion
-2. Add vegetables, chopped chicken and pilchards and cook until chicken and vegetables are cooked
-3. Crush all aromats in pestle and mortar until smooth or whiz in blender to make a curry paste
-4. Heat coconut milk in pan until warm to hot.  Add the curry paste 
-5. Tip coconut mixture into water and chicken.  Add the sugar, lime juice, fish sauce, pepper and noodles.
-6. Simmer gently until noodles are cooked
+1. In large 2-3 litre pot, boil onion in 3 litres of water until the onion is soft. Pitch out the onion
+3. While the onion is cooking, roughly chop aromats and smash in pestle ma messle until smooth or whiz in blender to make a curry paste; make sure the peppercorns are crushed
+2. Once the onion is soggy, add your chopped vegetables, chopped chicken and drained pilchards and simmer until chicken and vegetables are cooked
+3. Add the noodles towards end of chicken cooking (check the noodle pack for cooking time)
+4. While the chicken is cooking, heat coconut milk in pan until warm to hot.  Add the blended aromats 
+5. Tip coconut mixture into water and chicken.  Add the sugar, lime juice, fish sauce and some ground black pepper
 7. Whilst simmering, add eggs, stirring to make ribbony egg trails
 8. Garnish with fresh chopped red chilli, dill, coriander and a wedge of lime
-9. Eat with a tissue; your nose will run!
+9. Eat with a tissue; your nose will run! (use your own discretion with the chillies)
+
