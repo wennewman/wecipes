@@ -12,14 +12,16 @@ body {
       -webkit-font-smoothing: antialiased;	
       -moz-osx-font-smoothing: grayscale;	
       font-family: 'Anonymous-Pro', monospace;
-      color: #111109;
+      color: #12343b;
     }
 a {
       background-color: transparent;
       -webkit-text-decoration-skip: objects;
+    color: #000000;
+    
 }
 h1:visited {
-  color: #272727;
+  color: #35242C;
 }
 h1 {
     font-family: Tinue-Road, monospace;
@@ -38,7 +40,7 @@ a:hover {
     outline-width: 0;
   }
 a:visited {
-  color:#FF652F;
+  color:#111109;
 
 }
 b,
