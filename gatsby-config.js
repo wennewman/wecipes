@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Scrap paper no more...',
+    title: 'No more scrap paper...',
     author: 'Ed Winchester test kitchen'
   },
 

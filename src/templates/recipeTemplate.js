@@ -24,8 +24,9 @@ const Recipe = (props) => {
    return (
        <Layout>
        <Head title={props.data.markdownRemark.frontmatter.title}/>
+        <h1>{props.data.markdownRemark.frontmatter.title}</h1>
             <div className={templateStyles.metaContainer}>
-                <h1>{props.data.markdownRemark.frontmatter.title}</h1>
+                <p>Some words:{props.data.markdownRemark.frontmatter.description}</p>
                 <p>Added: {props.data.markdownRemark.frontmatter.date}</p>
                 <p>Credit: {props.data.markdownRemark.frontmatter.credit}</p>
                     <span> 

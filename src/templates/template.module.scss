@@ -1,7 +1,3 @@
-h1 {
-  font-family: Tinue-Road, monospace;
-  font-size: 3em;
-}
 
     .category span{
       background-color: #272727;
@@ -16,7 +12,7 @@ h1 {
     }
     .metaContainer {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
         flex-flow: row wrap;
     }

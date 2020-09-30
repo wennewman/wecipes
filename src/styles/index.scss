@@ -5,35 +5,38 @@
 @import '../fonts/fonts.css';
 
 html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  font-family: 'Anonymous-Pro', monospace;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
 }
-	body {	
-	  margin: 0;	
-	  -webkit-font-smoothing: antialiased;	
-    -moz-osx-font-smoothing: grayscale;	
-    font-family: 'Anonymous-Pro', monospace;
-	}
-
-footer, header, nav, figure, menu {
- display: block;
-}
-
+body {	
+      -webkit-font-smoothing: antialiased;	
+      -moz-osx-font-smoothing: grayscale;	
+      font-family: 'Anonymous-Pro', monospace;
+      color: #111109;
+    }
 a {
-  background-color: transparent;
-  -webkit-text-decoration-skip: objects;
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects;
 }
 h1:visited {
   color: #272727;
 }
 h1 {
-  font-family: Major-Mono-Display, monospace;
+    font-family: Tinue-Road, monospace;
+}
+h2 {
+    font-family: Tinue-Road, monospace;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: Anonymous-Pro, monospace;
+    font-size: 1.3em;
 }
 a:active,
 a:hover {
-  outline-width: 0;
-}
+    outline-width: 0;
+  }
 a:visited {
   color:#FF652F;
 
@@ -52,9 +55,22 @@ svg:not(:root) {
 }
 
 li {
-  margin-bottom: calc(1.45rem / 2);
+    margin-bottom: calc(1.45rem / 2);
+    margin-top: calc(1.45rem / 2);
 }
 
+ul {
+    margin-bottom: 1.45rem;
+    padding: 0;
+}
+
+ol {
+    margin-bottom: 1.45rem;
+    list-style-position: inside;
+    text-indent: -1.6em;
+    padding-left: 1.6em;
+
+}
 
 @media only screen and (max-width: 480px) {
   html {

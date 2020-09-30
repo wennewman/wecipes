@@ -30,7 +30,7 @@ const RecipePage = () => {
     <Layout >
       <Head title="Recipes"/>
         <h1>Recipes.</h1>
-        <ol className={recipeStyles.recipeList}>
+        <ul className={recipeStyles.recipeList}>
             {data.allMarkdownRemark.edges.map((edge) => {
                 const { fields, frontmatter: { title, description, categories = ' '}} = edge.node;
                // console.log(frontmatter, categories); 
@@ -47,7 +47,7 @@ const RecipePage = () => {
                     </li>
                 )
             })}
-        </ol>
+        </ul>
 
     
     </Layout>

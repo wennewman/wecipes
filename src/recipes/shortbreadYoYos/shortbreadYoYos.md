@@ -3,8 +3,13 @@ title: "Shortbread yo-yos"
 date: "2020-08-17"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "Mum's recipe; I don't think I have ever made these either"
+description: "Mum's recipe"
 ---
+
+Might have eaten the other half  
+
+![Shortbread yo yos](./shortbreadYoYo.jpg)
+
 ###Ingredients
 6 oz cold chopped butter  
 2 oz sugar  
