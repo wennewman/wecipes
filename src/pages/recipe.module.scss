@@ -14,21 +14,18 @@
   a:hover {
     background-color: #DFD4CC;
   }
-
-  p {
-    color: #000;
-  }
-  .category span{
-    color: #272727;
-    background-color: #F49600;
-    padding: 8px 8px 8px 8px;
-    border-radius: 10px;
-    margin-right: 10px;
-    
-  }
+  
   .categoryContainer {
     display: flex;
     align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  .categoryContainer p {
+    color: #000;
+    background-color: #F49600;
+    padding: 7px;
+    border-radius: 10px;
+    margin: 5px 10px 5px 0px;
   }
 
 }

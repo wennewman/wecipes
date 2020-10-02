@@ -39,10 +39,10 @@ const RecipePage = () => {
                     <li className={ recipeStyles.recipe }>
                         <Link to = {`/recipe/${fields.slug}`}>
                                 <h2>{ title }</h2>
-                                    <span className={recipeStyles.categoryContainer}> 
+                                    <div className={recipeStyles.categoryContainer}> 
                                     { categories.split(' ').map(category => 
-                                     <p className={ recipeStyles.category }><span>{ category }</span></p>) } 
-                                    </span>
+                                     <p className={ recipeStyles.category }>{ category }</p>) } 
+                                    </div>
                                 <p>{ description }</p> 
                         </Link>            
                     </li>
