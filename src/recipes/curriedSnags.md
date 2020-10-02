@@ -3,7 +3,7 @@ title: "Curried Sausages"
 date: "2020-07-27"
 categories: "dinnner"
 credit: "Yvonne"
-description: "You either love it or hate it, but if you love it... here 'tis. Mum used to boil the snags before she used them; that is too much pot washing for my liking, just chop them up and brown them first in the pan you are going to cook the curry in."
+description: "You either love it or hate it, but if you love it... here 'tis. Mum used to boil the snags before she used them; that is too much pot washing for my liking, just chop them up and brown them first in the pan you are going to cook the curry in"
 ---
 ###Ingredients
 2 tbsp olive oil  

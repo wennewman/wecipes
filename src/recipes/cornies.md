@@ -3,7 +3,7 @@ title: "Cornflake biscuits"
 date: "2020-09-03"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "Sweet biscuits with sultanas and rolled in corn flakes."
+description: "Sweet biscuits with sultanas and rolled in corn flakes"
 ---
 
 Classic recipe from childhood.  Set the oven to moderate 180ºc and line a baking sheet with baking paper before you start. 

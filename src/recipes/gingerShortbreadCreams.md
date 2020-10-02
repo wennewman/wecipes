@@ -3,7 +3,7 @@ title: "Ginger shortbread creams"
 date: "2020-08-21"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "Mum's recipe from Aunty Rube.  She used to use the bikky forcer for these."
+description: "Mum's recipe from Aunty Rube.  She used to use the bikky forcer for these"
 ---
 
 ###Ingredients

@@ -9,7 +9,8 @@ const RecipePage = () => {
 
         const data = useStaticQuery(graphql `
         query {
-            allMarkdownRemark {
+            allMarkdownRemark (sort: {fields: [frontmatter___title], order: ASC}
+            ){
                 edges {
                     node {
                         frontmatter {

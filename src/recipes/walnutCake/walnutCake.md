@@ -3,7 +3,7 @@ title: "Walnut cake"
 date: "2020-08-17"
 categories: "afternoon-tea"
 credit: "Hazel"
-description: "I think this is nana's recipe; I can't remember having made this one."
+description: "I think this is nana's recipe; I can't remember having made this one"
 ---
 
 ###Ingredients

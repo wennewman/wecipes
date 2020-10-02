@@ -7,12 +7,13 @@
 html {
       -ms-text-size-adjust: 100%;
       -webkit-text-size-adjust: 100%;
+      font-size: 25px;
 }
 body {	
       -webkit-font-smoothing: antialiased;	
       -moz-osx-font-smoothing: grayscale;	
       font-family: 'Anonymous-Pro', monospace;
-      color: #12343b;
+      color: #090909;
     }
 a {
       background-color: transparent;
@@ -25,15 +26,18 @@ h1:visited {
 }
 h1 {
     font-family: Tinue-Road, monospace;
+    font-size: 2rem;
+    color: #613F73;
 }
 h2 {
     font-family: Tinue-Road, monospace;
     margin-bottom: 0;
+    font-size: 1.5rem;
 }
 
 h3 {
     font-family: Anonymous-Pro, monospace;
-    font-size: 1.3em;
+    font-size: 1.3rem;
 }
 a:active,
 a:hover {

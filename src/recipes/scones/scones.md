@@ -1,5 +1,5 @@
 ---
-title: "scones"
+title: "Scones"
 date: "2020-08-17"
 categories: "afternoon-tea"
 credit: "Ral Cogs"
