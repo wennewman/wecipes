@@ -25,10 +25,11 @@ const Recipe = (props) => {
        <Layout>
        <Head title={props.data.markdownRemark.frontmatter.title}/>
         <h1>{props.data.markdownRemark.frontmatter.title}</h1>
-                    <span> 
+                    <span className= {templateStyles.categoryContainer}> 
                     { props.data.markdownRemark.frontmatter.categories.split(' ').map(category => 
                         <p>{ category }</p>) } 
                     </span>
+                    <div className= {templateStyles.divider}>...</div>
             <div className={templateStyles.metaContainer}>
                 <p><b>Some words:</b>{props.data.markdownRemark.frontmatter.description}</p>
                 <p><b>Added:</b> {props.data.markdownRemark.frontmatter.date}</p>
