@@ -1,7 +1,7 @@
 ---
 title: "Hummus"
 date: "2020-09-03"
-categories: "snack dip afternoon-tea gluten-free"
+categories: "snack dip gluten-free"
 credit: "hybrid/Wen"
 description: "My classic go to hummus recipe (which I never use because I mostly wing it.  I sometimes also add ½ teaspoon of cumin and coriander seeds, toasted and beaten to a powder"
 ---

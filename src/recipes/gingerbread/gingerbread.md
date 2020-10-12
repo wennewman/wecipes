@@ -3,8 +3,9 @@ title: "Gingerbread"
 date: "2020-08-18"
 categories: "afternoon-tea"
 credit: "Hazel Dick"
-description: "Just bloody delicious if you like ginger.  Turns out I'm quite fond of Ginger.  This is not biscuits to make for christmas, it is a really moist delicious cake."
+description: "Just bloody delicious if you like ginger; turns out I'm quite fond of ginger due to some form of loyalty to the gene.  This is not biscuits to make for christmas, it is a really moist, delicious cake"
 ---
+![Ginger bread](./gingerBread.jpg)
 
 ###Ingredients
 ½ cup butter  

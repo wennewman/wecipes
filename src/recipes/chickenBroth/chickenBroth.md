@@ -1,7 +1,7 @@
 ---
 title: "Chicken bone broth"
 date: "2020-08-04"
-categories: "Essentials"
+categories: "essentials"
 credit: "Wen"
 description: "I'm pretty excited about this now as I have refined the base flavour and it sets to jelly. It can be used for all kinds of good; I have it in the fridge always and it keeps for up to 3 weeks.  I'm not sure what science and food regulations would say about that but I'm here to tell the tale."
 ---
