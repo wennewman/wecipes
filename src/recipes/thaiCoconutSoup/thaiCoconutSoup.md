@@ -3,7 +3,7 @@ title: "Thai coconut soup"
 date: "2020-08-17"
 categories: "brunch soup lunch dinner"
 credit: "Lizzy"
-description: "Where to begin.  Credit Liz Baulch for this one.  Lizzy and I met in Israel on a Moshav, sharing a house with a Thai family, where we learned (well where Liz learned) to cook amazing Thai food.  This soup was amazing when Liz made it; I havent made it ever - I was always the pissle and missle bitch trying to stuff an enormous amount of herbs and aromats into a small hole.  Manually it takes a lot of arm power to get it all into a smulch, but it is so very worth it. I could go on and tell the story about the stolen turkey that we butchered in pitch black thinking we got away with it until we awoke to daylight and a scene from dexter with feathers++ on the dirt patio, but I will spare you"
+description: "Where to begin.  Credit Liz Baulch for this one although I did a rubbish job of writing the instructions down.  Lizzy and I met in Israel on a Moshav, sharing a house with a Thai family, where we learned (well where Liz learned) to cook amazing Thai food.  This soup was amazing when Liz made it; I havent made it ever - I was always the pizzle and mizzle whore trying to stuff an enormous amount of herbs and aromats into a small hole.  Manually it takes a lot of arm power to get it all into a smulch, but it is so very worth it. I could go on and tell the story about the stolen turkey that we butchered in pitch black thinking we got away with it until we awoke to daylight and a scene from dexter with feathers++ on the dirt patio, but I will spare you"
 ---
 ###Ingredients
 
