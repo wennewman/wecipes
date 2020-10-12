@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Yvonne"
 description: "Mum's recipe from Aunty Rube.  She used to use the bikky forcer for these."
 ---
+![Ginger shortbread creams](./gingerCreams.jpg)
 
 ###Ingredients
 ½lb butter  
