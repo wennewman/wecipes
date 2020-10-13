@@ -3,7 +3,7 @@ title: "Pumpkin soup"
 date: "2020-08-17"
 categories: "dinner"
 credit: "Me"
-description: "This is mint if you have some home made chicken stock and can be arsed roasting the pumpkin first, but you are okay to not roast it if you short of time and use home made stock."
+description: "This is mint if you have some home made chicken stock and can be arsed roasting the pumpkin first, but you are okay to not roast it if you short of time and use home made stock"
 ---
 ![Pumpkin soup](./pumpkinSoup.jpg)
 

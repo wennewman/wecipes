@@ -3,7 +3,7 @@ title: "Chicken bone broth"
 date: "2020-08-04"
 categories: "essentials"
 credit: "Wen"
-description: "I'm pretty excited about this now as I have refined the base flavour and it sets to jelly. It can be used for all kinds of good; I have it in the fridge always and it keeps for up to 3 weeks.  I'm not sure what science and food regulations would say about that but I'm here to tell the tale."
+description: "I'm pretty excited about this now as I have refined the base flavour and it sets to jelly. It can be used for all kinds of good; I have it in the fridge always and it keeps for up to 3 weeks.  I'm not sure what science and food regulations would say about that but I'm here to tell the tale"
 ---
 
 I use a pressure cooker for making stock; it only takes an hour once it is up to pressure.  Alternatively you can keep a slow rolling simmer in a large stock pot for 3-4 hours (although I'm not really qualified to say).  You can use bones of any animal - I follow the same process regardless of type of bones used.

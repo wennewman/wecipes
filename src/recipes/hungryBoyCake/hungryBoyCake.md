@@ -3,7 +3,7 @@ title: "Hungry boy cake"
 date: "2020-08-17"
 categories: "afternoon-tea"
 credit: "Chrissy Palmer"
-description: "Credit Chrissy Palmer for this fabo sultana cake.  Probably my fav fruit cake.  Stays moist for ages and has great flavour."
+description: "Credit Chrissy Palmer for this fabo sultana cake.  Probably my fav fruit cake.  Stays moist for ages and has great flavour"
 ---
 ###Ingredients
 2½ cups plain flour  

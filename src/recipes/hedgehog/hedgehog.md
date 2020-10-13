@@ -3,7 +3,7 @@ title: "Hedgehog"
 date: "2020-08-24"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "This is mum's recipe.  I've not verified this one for years.  You can make the whole thing in a large saucepan."
+description: "This is mum's recipe.  I've not verified this one for years.  You can make the whole thing in a large saucepan"
 ---
 ###Ingredients
 ¼ lb butter  

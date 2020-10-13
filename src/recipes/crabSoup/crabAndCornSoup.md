@@ -3,7 +3,7 @@ title: "Crab and corn soup"
 date: "2020-10-12"
 categories: "dinner brunch"
 credit: "Me and my home made chicken stock"
-description: "I made this up yesterday.  Can't even believe how delicious it was and takes only 10 mins.  I use the Pantai crab paste with soya bean oil; I get it in all my local Asian grocers."
+description: "I made this up yesterday.  Can't even believe how delicious it was and takes only 10 mins.  I use the Pantai crab paste with soya bean oil; I get it in all my local Asian grocers"
 ---
 ![Crab and corn soup](./crabSoup.jpg)
 

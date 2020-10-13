@@ -3,7 +3,7 @@ title: "Mushroom pasta sauce"
 date: "2020-08-17"
 categories: "dinner"
 credit: "Me"
-description: "My go to pasta sauce for Gennaro's gnocchi.  Best if you have home made stock in the fridge.  Also delicious with egg fettuccine or tagliatelle."
+description: "My go to pasta sauce for Gennaro's gnocchi.  Best if you have home made stock in the fridge.  Also delicious with egg fettuccine or tagliatelle"
 ---
 ###Ingredients
 Olive oil  

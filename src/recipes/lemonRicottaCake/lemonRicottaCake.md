@@ -3,7 +3,7 @@ title: "Lemon ricotta cake"
 date: "2020-08-17"
 categories: "afternoon-tea"
 credit: "Me"
-description: "I totes made this up. Rad. If you dont have any almond meal, use all SR flour.  I make this sometimes with the leftover egg whites from the ricotta gnocchi but the recipe stands up fine without egg whites.  When you use a 375g ricotta tub for the gnocchi, this is just the leftovers."
+description: "I totes made this up. Rad. If you dont have any almond meal, use all SR flour.  I make this sometimes with the leftover egg whites from the ricotta gnocchi but the recipe stands up fine without egg whites.  When you use a 375g ricotta tub for the gnocchi, this is just the leftovers"
 ---
 
 ###Ingredients

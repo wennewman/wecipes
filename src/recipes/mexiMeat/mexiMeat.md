@@ -3,7 +3,7 @@ title: "Mexi meat"
 date: "2020-08-17"
 categories: "dinner"
 credit: "Me"
-description: "Totes made this up too. When I use cumin and coriander I toast the seeds in a dry frying pan and grind up in my portal and vessel.  You can just use it already ground out of a packet if you cbf with that fuss."
+description: "Totes made this up too. When I use cumin and coriander I toast the seeds in a dry frying pan and grind up in my portal and vessel.  You can just use it already ground out of a packet if you cbf with that fuss"
 ---
 ###Ingredients
 500g beef mince  

@@ -3,7 +3,7 @@ title: "Ginger fluff sponge"
 date: "2020-08-08"
 categories: "afternoon-tea"
 credit: "Wen"
-description: "I just fail every time I make this.  I think it worked once; all the sponge planets aligned and I still have no idea what I did differently.  Serioulsy when it works though, this is my most fav cake of all time."
+description: "I just fail every time I make this.  I think it worked once; all the sponge planets aligned and I still have no idea what I did differently.  Serioulsy when it works though, this is my most fav cake of all time"
 ---
 ![Ginger sponge cake](./gingerFluff.png)
 
