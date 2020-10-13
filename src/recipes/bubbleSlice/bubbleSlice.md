@@ -3,7 +3,7 @@ title: "Rice bubble slice"
 date: "2020-09-03"
 categories: "afternoon-tea"
 credit: "Ral Cogs"
-description: "No bake recipe, this one.  This is kind of like a home made Kellogs ad; sorry about that."
+description: "No bake recipe, this one.  This is kind of like a home made Kellogs ad; sorry about that"
 ---
 ###Ingredients
 
