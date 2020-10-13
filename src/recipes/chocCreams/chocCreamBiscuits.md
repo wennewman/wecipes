@@ -3,8 +3,9 @@ title: "Chocolate cream biscuits"
 date: "2020-08-18"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "These are mum's chocolate forcer biscuits.  She made them only occasionally as a treat and we totally devoured them"
+description: "These are mum's chocolate forcer biscuits.  She made them only occasionally as a treat and we totally devoured them.  My forcer bugged out mid verification testing, so I made a sausage out of the rest of the mix and sliced them up with a really thin blade"
 ---
+![Chocolate cream biscuits](./chocCreams.jpg)
 ###Ingredients
 2 cups flour  
 ½ cup butter  
