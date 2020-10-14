@@ -3,7 +3,7 @@ title: "Super smoothie"
 date: "2020-08-17"
 categories: "snack breakfast lunch"
 credit: "Me"
-description: "Credit Leonie Henderson for this one; not sure where she got it from but as far as healthy smoothies go - this is a palatable cracker."
+description: "Credit Leonie Henderson for this one; not sure where she got it from but as far as healthy smoothies go - this is a palatable cracker"
 ---
 ###Ingredients
 3 cups spinach  

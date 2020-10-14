@@ -3,7 +3,7 @@ title: "Sri Lankan curry"
 date: "2020-08-17"
 categories: "dinner"
 credit: "Pavithra"
-description: "I went to uni with Pavi, and she taught me to make this quick curry. I use chicken thighs, oyster blade steak with the bone in or diced lamb.  It is so good, quick and easy."
+description: "I went to uni with Pavi, and she taught me to make this quick curry. I use chicken thighs, oyster blade steak with the bone in or diced lamb.  It is so good, quick and easy"
 ---
 
 ###Ingredients

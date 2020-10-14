@@ -3,7 +3,7 @@ title: "Stale cake slice"
 date: "2020-08-17"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "This is one of my mum's recipes. Probably one of my most fav baked things of all time; up there with a good eccles cake if you like that kind of thing."
+description: "This is one of my mum's recipes. Probably one of my most fav baked things of all time; up there with a good eccles cake if you like that kind of thing"
 ---
 
 ###Ingredients
