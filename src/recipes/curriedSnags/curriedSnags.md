@@ -1,5 +1,5 @@
 ---
-title: "Curried Sausages"
+title: "Curried sausages"
 date: "2020-07-27"
 categories: "dinnner"
 credit: "Yvonne"
