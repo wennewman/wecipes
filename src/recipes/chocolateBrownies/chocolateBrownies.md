@@ -2,7 +2,7 @@
 title: "Chocolate brownies"
 date: "2020-10-23"
 categories: "afternoon-tea"
-credit: "BBC good food"
+credit: "Me"
 description: "This is my changes to the BBC's best ever brownie recipe. I have added vanilla and an espresso shot"
 ---
 ![Chocolate brownies](./brownie.jpg)
