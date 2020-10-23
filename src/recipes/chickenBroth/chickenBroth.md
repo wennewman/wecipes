@@ -5,10 +5,10 @@ categories: "essentials"
 credit: "Wen"
 description: "I'm pretty excited about this now as I have refined the base flavour and it sets to jelly. It can be used for all kinds of good; I have it in the fridge always and it keeps for up to 3 weeks.  I'm not sure what science and food regulations would say about that but I'm here to tell the tale"
 ---
+![Chicken broth](./chickenBroth.jpg)
 
 I use a pressure cooker for making stock; it only takes an hour once it is up to pressure.  Alternatively you can keep a slow rolling simmer in a large stock pot for 3-4 hours (although I'm not really qualified to say).  You can use bones of any animal - I follow the same process regardless of type of bones used.
 
-![Chicken broth](./chickenBroth.jpg)
 
 ##Ingredients
 2 large carrots  
@@ -19,7 +19,7 @@ I use a pressure cooker for making stock; it only takes an hour once it is up to
 3 bay leaves  
 2 sprigs of thyme  
 1 leek  
-1.5kg chicken bones
+1.5kg chicken bones  
 bunch of parsley (use roots if you are picking from your garden)
 
 __Optional items:__  
