@@ -3,8 +3,10 @@ title: "Devil's food cake"
 date: "2020-08-08"
 categories: "afternoon-tea"
 credit: "70s recipe cards"
-description: "Brilliant flavoured rich chocolate cake"
+description: "Brilliant flavoured rich chocolate cake.  The pic shows it filled with cherries and cream.  Brush the cake with kirsch before adding the cherries and you got yourself a black forest"
 ---
+![Devils food cake](./devilsFoodCake.jpg)
+
 ###Ingredients
 ####Cake ingredients
 2¼ cups SR flour  
