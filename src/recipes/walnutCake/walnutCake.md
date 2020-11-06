@@ -1,16 +1,16 @@
 ---
 title: "Walnut cake"
-date: "2020-08-17"
+date: "2020-11-06"
 categories: "afternoon-tea"
 credit: "Hazel"
-description: "I think this is nana's recipe; I can't remember having made this one"
+description: "I think this is nana's recipe. I made this today; it was dry with too much flour.  Turns out I both read the recipe wrong and had the quantity wrong; it is now fixed. #putYourGlassesOnWendy "
 ---
 
 ###Ingredients
 60g butter  
 ½ cup sugar  
 2 tbsp milk  
-1¼ cup SR flour  
+1 cup SR flour  
 1 tbsp cocoa  
 100g chopped walnuts  
 ½ tsp mixed spice  
@@ -23,4 +23,4 @@ description: "I think this is nana's recipe; I can't remember having made this o
 4. Beat in egg
 5. Mix in half the sifted dry ingredients with half the milk
 6. Mix in remaining dry ingredients then remaining milk
-7. Pour into prepared tin and bake 20 to 40 minutes or until knife comes out clean
+7. Pour into prepared tin and bake 20 to 40 minutes or until knife comes out cle an
