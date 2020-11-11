@@ -19,7 +19,7 @@ const Image = () => {
       placeholderImage: file(relativePath: { eq: "images/scrapHead.jpg" }) {
         childImageSharp {
           fluid {
-            ...GatsbyImageSharpFluid
+            ...GatsbyImageSharpFluid_noBase64
           }
         }
       }
@@ -28,6 +28,9 @@ const Image = () => {
 
   return (
     <Img
+      critical
+      fadeIn={false}
+      loading="eager"
       fluid={data.placeholderImage.childImageSharp.fluid}
       alt="I'm Ed. I'm a scrap head. Look at the detritus. I've been sticking my head in places I ought not be sticking it. I have a stupid face."
     />
