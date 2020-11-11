@@ -1,0 +1,48 @@
+//TODO: exclude public folder from linting
+//possibly remove proptypes from checking/linting
+//Check run on save settings in settings.json (vs setting)
+{
+    "env": {
+        "es2021": true
+    },
+    "extends": [
+        "plugin:react/recommended"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "prettier"
+    ],
+    "ignorePatterns": [
+        "node_modules/",
+        "public/"
+    ],
+    "rules": {
+        "react/prop-types": "off",
+        "no-console": 1,
+        "prettier/prettier": [
+            "error",
+            {
+                "trailingComma": "es5",
+                "singleQuote": true,
+                "printWidth": 120,
+                "endOfLine": "auto"
+            }
+        ],
+        "react/jsx-filename-extension": [
+            0,
+            {
+                "extensions": [
+                    ".js",
+                    ".jsx"
+                ]
+            }
+        ]
+    }
+}
