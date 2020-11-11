@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Yvonne"
 description: "Mum wrote this one out in the book but I haven't tried it.  Hopefully they are as good as Georgie McLeod"
 ---
+
 ###Ingredients
 2 oz butter  
 2 oz sugar  
@@ -17,6 +18,7 @@ Pinch of salt
 1 packet of red jelly made to instructions on pack
 
 ###Method
+
 1. Heat oven to moderate 180ºc
 2. Make up the jelly according to instructions and put in the fridge
 3. Grease and line patty pans or small muffin trays

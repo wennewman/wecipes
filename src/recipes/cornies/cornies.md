@@ -6,9 +6,10 @@ credit: "Yvonne"
 description: "Sweet biscuits with sultanas and rolled in corn flakes"
 ---
 
-Classic recipe from childhood.  Set the oven to moderate 180ºc and line a baking sheet with baking paper before you start. 
+Classic recipe from childhood. Set the oven to moderate 180ºc and line a baking sheet with baking paper before you start.
 
 ## Ingredients
+
 ¼ lb butter
 ½ cup sugar
 1 egg
@@ -18,6 +19,7 @@ Classic recipe from childhood.  Set the oven to moderate 180ºc and line a bakin
 3/4 cup sultanas
 
 ## Method
+
 1. Cream butter and sugar in bowl with electric mixer
 2. Add egg and vanilla and beat until smooth
 3. Mix through sultanas and then flour

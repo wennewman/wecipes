@@ -30,19 +30,21 @@ const RecipePage = () => {
       <Head title="Recipes" />
       <h1>Recipes.</h1>
       <ul className={recipeStyles.recipeList}>
-        {data.allMarkdownRemark.edges.map(edge => {
+        {data.allMarkdownRemark.edges.map((edge, i) => {
           const {
             fields,
             frontmatter: { title, description, categories = ' ' },
           } = edge.node
           // console.log(frontmatter, categories);
           return (
-            <li className={recipeStyles.recipe}>
+            <li key={i} className={recipeStyles.recipe}>
               <Link to={`/recipe/${fields.slug}`}>
                 <h2>{title}</h2>
                 <div className={recipeStyles.categoryContainer}>
-                  {categories.split(' ').map(category => (
-                    <p className={recipeStyles.category}>{category}</p>
+                  {categories.split(' ').map((category, j) => (
+                    <p key={j} className={recipeStyles.category}>
+                      {category}
+                    </p>
                   ))}
                 </div>
                 <p>{description}</p>

@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "wecipes",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "recipes and gatsby united website for putting random food thoughts and other ed related irrelevancies",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {

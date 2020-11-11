@@ -26,7 +26,7 @@ const Recipe = props => {
       <h1>{props.data.markdownRemark.frontmatter.title}</h1>
       <span className={templateStyles.categoryContainer}>
         {props.data.markdownRemark.frontmatter.categories.split(' ').map(category => (
-          <p>{category}</p>
+          <p key={category}>{category}</p>
         ))}
       </span>
       <div className={templateStyles.divider}>...</div>

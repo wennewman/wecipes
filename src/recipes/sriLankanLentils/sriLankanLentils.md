@@ -15,10 +15,10 @@ description: "I went to uni with Pavi, and she taught me to make these lentils t
 ¼ tsp chilli powder  
 1 chopped garlic clove  
 pinch of turmeric  
-salt  
+salt
 
 ###Method
 
 1. Cover lentils with water in saucepan
 2. Add salt, turmeric, cumin, chilli powder and a few onion slices and simmer until cooked
-3. In separate pan, fry extra onion slices, chopped garlic clove, chilli (fresh or dried) and curry leaves.  Add to the cooked lentils with a little milk or cream
+3. In separate pan, fry extra onion slices, chopped garlic clove, chilli (fresh or dried) and curry leaves. Add to the cooked lentils with a little milk or cream

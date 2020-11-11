@@ -9,7 +9,7 @@ const ContactPage = () => {
       <h1>Contact.</h1>
       <p>
         You can contact me via Insta{' '}
-        <a href="https://youtu.be/cHQoxcfISFE?t=8" rel="noopener" target="_blank">
+        <a href="https://youtu.be/cHQoxcfISFE?t=8" rel="noreferrer" target="_blank">
           @nuwms
         </a>
         , but you know who I am and how to find me 🚄.

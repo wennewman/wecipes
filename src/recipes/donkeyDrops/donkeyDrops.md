@@ -13,6 +13,7 @@ description: "Mum called these truffles.  Hardly; these are the marie biscuit, c
 ½ cup dessicated coconut  
 1 tsp vanilla extract
 ###Method
+
 1. Mix all the ingredients except coconut until it is all combined
 2. Roll tablespoons of mixture into balls then roll in coconut
 3. Put in an air tight container in the fridge

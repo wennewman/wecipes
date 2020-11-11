@@ -1,5 +1,5 @@
 npm install gatsby-plugin-sharp gatsby-remark-images gatsby-remark-relative-images
-4:15:40  npm install gatsby-plugin-react-helmet react-helmet
+4:15:40 npm install gatsby-plugin-react-helmet react-helmet
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">

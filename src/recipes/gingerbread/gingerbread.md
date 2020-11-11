@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Hazel Dick"
 description: "Just bloody delicious if you like ginger; turns out I'm quite fond of ginger due to some form of loyalty to the gene.  This is not biscuits to make for christmas, it is a really moist, delicious cake"
 ---
+
 ![Ginger bread](./gingerBread.jpg)
 
 ###Ingredients
@@ -19,6 +20,7 @@ description: "Just bloody delicious if you like ginger; turns out I'm quite fond
 1 tbsp boiling water
 
 ###Method
+
 1. Set oven to 180ºc
 2. Grease and line lamington tin
 3. Boil the kettle and dissolve the soda in hot water

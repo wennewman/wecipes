@@ -17,7 +17,8 @@ Zest and juice of a lemon
 3 egg whites (Optional)
 
 ###Method
-1. Grease and line a deep loaf or cake tin.  
+
+1. Grease and line a deep loaf or cake tin.
 2. Set the oven to 180ºc
 3. If using, Beat egg whites until peaks form
 4. In separate bowl, cream butter, ricotta and sugar with electric beater until pale and lighter in colour
@@ -25,6 +26,6 @@ Zest and juice of a lemon
 6. Fold through almond meal and lemon until combined
 7. Fold through flour until just combined
 8. If using egg whites, fold these through last
-9. Bake in a moderate oven for approximately 45 minutes.  You will smell the cake once it is cooked; stab with a knife which should come out clean when cooked
+9. Bake in a moderate oven for approximately 45 minutes. You will smell the cake once it is cooked; stab with a knife which should come out clean when cooked
 
 _Note: If using the egg whites, you end up with a lighter spongy texture that could be sliced in half and filled with lemon curd and cream... just sayin_

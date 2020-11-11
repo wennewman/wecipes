@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Yvonne"
 description: "Mum's recipe from Aunty Rube; she used to use the bikky forcer for these.  If you don't have one, just roll a teaspoon full of mix into a ball and press the top with a fork.  Proper delicious"
 ---
+
 ![Ginger shortbread creams](./gingerCreams.jpg)
 
 ###Ingredients
@@ -14,9 +15,10 @@ description: "Mum's recipe from Aunty Rube; she used to use the bikky forcer for
 2 tsp ginger powder  
 1 egg  
 1 tbsp golden syrup  
-1 tsp bi carb soda  
+1 tsp bi carb soda
 
 ###Method
+
 1. Grease biscuit trays or cover with baking paper
 2. Cream butter and sugar with electric mixer
 3. Add egg and syrup and beat until combined

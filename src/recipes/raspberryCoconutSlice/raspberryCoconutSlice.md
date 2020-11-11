@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Georgie McLeod (RIP)"
 description: "This is Georgie McLeod's recipe.  Yvonne wrote this out for me; I have never made it but she made it all the time. Another fav. I'm not sure if the cups are old school tea cups or actually metric baking measuring cups.  Good luck! At some point I'll give it a burl and update"
 ---
+
 ###Ingredients
 2 cups flour  
 ½ cup sugar  
@@ -14,6 +15,7 @@ description: "This is Georgie McLeod's recipe.  Yvonne wrote this out for me; I 
 2 cups coconut  
 ¼ cup raspberry or other jam  
 ###Method
+
 1. Set oven to 180ºc moderate
 2. Grease and line square or rectangular slice tray
 3. Mix flour and sugar together and rub in chopped butter. Add egg and mix to dough; do not over work the dough

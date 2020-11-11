@@ -2,55 +2,53 @@
 //npm install gatsby-plugin-sass node-sass
 /* Reset provided by https://github.com/gatsbyjs/gatsby-starter-blog via MIT license */
 
-@import '../fonts/fonts.css';
+@import "../fonts/fonts.css";
 
 html {
-      -ms-text-size-adjust: 100%;
-      -web-kit-text-size-adjust: 100%;
-      font-size: 22px;
+  -ms-text-size-adjust: 100%;
+  -web-kit-text-size-adjust: 100%;
+  font-size: 22px;
 }
-body {	
-      -webkit-font-smoothing: antialiased;	
-      -moz-osx-font-smoothing: grayscale;	
-      font-family: 'Anonymous-Pro', monospace;
-      color: #090909;
-    }
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Anonymous-Pro", monospace;
+  color: #090909;
+}
 a {
-      background-color: transparent;
-      -webkit-text-decoration-skip: objects;
-    color: #000000;
-    
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+  color: #000000;
 }
 h1:visited {
-  color: #35242C;
+  color: #35242c;
 }
 h1 {
-    font-family: Tinue-Road, monospace;
-    font-size: 2rem;
-    color: #613F73;
-    margin: 0px;
-    padding: 0px;
+  font-family: Tinue-Road, monospace;
+  font-size: 2rem;
+  color: #613f73;
+  margin: 0px;
+  padding: 0px;
 }
 h2 {
-    font-family: Tinue-Road, monospace;
-    margin: 0px;
-    padding: 0px;
-    font-size: 1.5rem;
+  font-family: Tinue-Road, monospace;
+  margin: 0px;
+  padding: 0px;
+  font-size: 1.5rem;
 }
 
 h3 {
-    font-family: Anonymous-Pro, monospace;
-    font-size: 1.3rem;
-    margin: 0px;
-    padding: 0px;
+  font-family: Anonymous-Pro, monospace;
+  font-size: 1.3rem;
+  margin: 0px;
+  padding: 0px;
 }
 a:active,
 a:hover {
-    outline-width: 0;
-  }
+  outline-width: 0;
+}
 a:visited {
-  color:#111109;
-
+  color: #111109;
 }
 b,
 strong {
@@ -66,13 +64,13 @@ svg:not(:root) {
 }
 
 li {
-    margin-bottom: calc(1.45rem / 2);
-    margin-top: calc(1.45rem / 2);
+  margin-bottom: calc(1.45rem / 2);
+  margin-top: calc(1.45rem / 2);
 }
 
 ul {
-    margin-bottom: 1.45rem;
-    padding: 0;
+  margin-bottom: 1.45rem;
+  padding: 0;
 }
 
 @media only screen and (max-width: 480px) {
@@ -82,5 +80,5 @@ ul {
 }
 
 .ed {
-  display: flex; 
+  display: flex;
 }

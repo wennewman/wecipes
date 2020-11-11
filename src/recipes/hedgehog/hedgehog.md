@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Yvonne"
 description: "This is mum's recipe.  I've not verified this one for years.  You can make the whole thing in a large saucepan"
 ---
+
 ###Ingredients
 ¼ lb butter  
 ½ lb Marie biscuits  
@@ -14,6 +15,7 @@ description: "This is mum's recipe.  I've not verified this one for years.  You 
 ½ cup chopped walnuts
 
 ###Method
+
 1. In a large saucepan, melt butter, sugar and cocoa
 2. Stir over the heat until the sugar slightly dissolves
 3. Take off the heat and allow to cool

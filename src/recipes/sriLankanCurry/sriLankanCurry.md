@@ -24,6 +24,7 @@ description: "I went to uni with Pavi, and she taught me to make this quick curr
 Ground black pepper  
 1 tbsp ghee or oil
 ###Method
+
 1. In a large bowl, combine chilli powder, turmeric, curry powder and salt
 2. Add diced meat and stir until the meat is completely coated with the powder and set aside
 3. Heat a large dutch oven or heavy based saucepan and add the ghee

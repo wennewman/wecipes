@@ -4,18 +4,16 @@
   margin-left: 0;
 }
 
-
 .title {
   margin-bottom: 1.3rem;
   text-decoration: none;
-  font-size:1.8em;
+  font-size: 1.8em;
   margin: 0.67em 0;
-  color: #613F73;
+  color: #613f73;
   font-family: Major-Mono-Display, monospace;
-
 }
 .title:visited {
-  color:  #613F73;
+  color: #613f73;
 }
 
 .nav-list {
@@ -25,18 +23,16 @@
   font-weight: normal;
   margin-left: auto;
   font-size: 1.2em;
-  
 }
 
 .nav-item {
-  color: #F49600;
+  color: #f49600;
   margin-right: 1.3rem;
   text-decoration: none;
- 
+
   &:visited {
-    color: #F49600;
+    color: #f49600;
   }
-  
 }
 .nav-item:hover {
   color: #331714;

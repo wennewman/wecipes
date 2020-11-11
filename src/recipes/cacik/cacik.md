@@ -11,9 +11,10 @@ description: "Yummy Turkish yoghurt and cucumber dip"
 3 crushed garlic cloves  
 Salt and ground black pepper  
 300ml Greek yoghurt  
-2tbsp chopped fresh mint  
+2tbsp chopped fresh mint
 
 ###Method
+
 1. Wash then finely dice cucumber, leaving the skin on
 2. Place in a colander and cover with salt to drain over the sink for 30 minutes
 3. Rinse off thoroughly and pat dry with paper towel

@@ -9,6 +9,7 @@ description: "My classic go to hummus recipe (which I never use because I mostly
 You will need a blender, stick blender or strong arm in a massive pestle and mortar for this recipe.
 
 ## Ingredients
+
 2 cups cooked chickpeas
 1/3 cup water
 ¼ cup tahini (hulled or unhulled - whatever floats your boat)
@@ -21,4 +22,4 @@ Black pepper to taste
 ## Method
 
 1. Put all ingredients except olive oil into your blender jug (put the tahini in last as it is gloopy and will set at the bottom and not mix in properly).
-2. Once smooth, slowly pour in olive oil as the blender is still running.  The hummus will go thicker and shiny.  
+2. Once smooth, slowly pour in olive oil as the blender is still running. The hummus will go thicker and shiny.

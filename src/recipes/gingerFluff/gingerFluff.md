@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Wen"
 description: "I just fail every time I make this.  I think it worked once; all the sponge planets aligned and I still have no idea what I did differently.  Serioulsy when it works though, this is my most fav cake of all time"
 ---
+
 ![Ginger sponge cake](./gingerFluff.png)
 
 ###Ingredients
@@ -16,9 +17,10 @@ description: "I just fail every time I make this.  I think it worked once; all t
 1 tsp ground ginger  
 1 tsp cream of tartar  
 ½ tsp bi-carb soda  
-½ tbsp warmed golden syrup  
+½ tbsp warmed golden syrup
 
 ###Method
+
 1. Beat eggs and sugar together until thick and creamy - about 10 minutes (I usually put the timer on to mitigate stronking and time voids)
 2. While the eggs are beating, sift all of the dry ingredients together into a separate bowl and set aside.
 3. Measure out the golden syrup into a microwave safe something, and warm for a couple of seconds in the microwave and set aside

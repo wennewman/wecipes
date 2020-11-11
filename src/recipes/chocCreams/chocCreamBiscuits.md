@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Yvonne"
 description: "These are mum's chocolate forcer biscuits.  She made them only occasionally as a treat and we totally devoured them.  My forcer bugged out mid verification testing, so I made a sausage out of the rest of the mix and sliced them up with a really thin blade"
 ---
+
 ![Chocolate cream biscuits](./chocCreams.jpg)
 ###Ingredients
 2 cups flour  
@@ -14,9 +15,10 @@ description: "These are mum's chocolate forcer biscuits.  She made them only occ
 ½ tsp bi carb soda  
 ½ tsp cinnamon  
 3 tbsp cocoa  
-1 egg  
+1 egg
 
 ###Method
+
 1. Set oven to moderate 180ºc
 2. Grease baking sheet or cover with baking paper
 3. Cream butter and sugar

@@ -5,6 +5,7 @@ categories: "afternoon-tea"
 credit: "Yvonne"
 description: "Mum's anzac recipe.  Yummy biscuit that keeps for weeks in an airtight container"
 ---
+
 ###Ingredients
 1 cup plain flour  
 1 cup sugar  
@@ -13,9 +14,10 @@ description: "Mum's anzac recipe.  Yummy biscuit that keeps for weeks in an airt
 2 tbsp golden syrup  
 1 tsp bi carb soda  
 2 tbsp water  
-125g butter  
+125g butter
 
 ###Method
+
 1. Set oven to moderate - 180ºc
 2. Melt butter, water and gliden syrup in a saucepan to a simmer.
 3. Add soda and stir so it froths
