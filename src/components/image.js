@@ -1,6 +1,6 @@
-import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import Img from "gatsby-image"
+import React from 'react'
+import { useStaticQuery, graphql } from 'gatsby'
+import Img from 'gatsby-image'
 
 /*
  * This component is built using `gatsby-image` to automatically serve optimized
@@ -25,8 +25,13 @@ const Image = () => {
       }
     }
   `)
-    
-  return <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="I'm Ed. I'm a scrap head. Look at the detritus. I've been sticking my head in places I ought not be sticking it. I have a stupid face." />
+
+  return (
+    <Img
+      fluid={data.placeholderImage.childImageSharp.fluid}
+      alt="I'm Ed. I'm a scrap head. Look at the detritus. I've been sticking my head in places I ought not be sticking it. I have a stupid face."
+    />
+  )
 }
 
 export default Image
