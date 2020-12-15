@@ -3,7 +3,7 @@ title: "Raspberry coconut slice"
 date: "2020-08-17"
 categories: "afternoon-tea"
 credit: "Georgie McLeod (RIP)"
-description: "This is Georgie McLeod's recipe.  Yvonne wrote this out for me; I have never made it but she made it all the time. Another fav. I'm not sure if the cups are old school tea cups or actually metric baking measuring cups.  I've just made this with metric cups and the mix was dry; I had to add some milk to make it come together. Wen. 20th Nov 2020."
+description: "This is Georgie McLeod's recipe. Yvonne wrote this out for me; I have never made it but she made it all the time. Another fav. I'm not sure if the cups are old school tea cups or actually metric baking measuring cups. I've just made this with metric cups and the mix was dry; I had to add some milk to make it come together. Wen 20th Nov 2020."
 ---
 
 ###Ingredients
