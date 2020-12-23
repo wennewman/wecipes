@@ -18,7 +18,7 @@ description: "This is Georgie McLeod's recipe. Yvonne wrote this out for me; I h
 
 1. Set oven to 180ºc moderate
 2. Grease and line square or rectangular slice tray
-3. Mix flour and sugar together and rub in chopped butter. Add one of the eggs and mix to dough; do not over work the dough.  Add a little milk if the mix is dry. 
+3. Mix flour and sugar together and rub in chopped butter. Add one of the eggs and mix to dough; do not over work the dough. Add a little milk if the mix is dry.
 4. Press and smooth out pastry base into prepared slice tray then spread with your fav berry (or apricot jam)
 5. Mix coconut, extra sugar and lightly beaten egg until all combined
 6. Spread over pastry base

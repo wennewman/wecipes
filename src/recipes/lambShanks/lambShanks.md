@@ -23,11 +23,12 @@ description: "Pressure cooker or slow cooked in the oven, this is proper delicio
 Ground black pepper to your taste
 
 ###Method
+
 1. Set oven to 180ºc if cooking in oven
 2. Put pressure cooker or dutch oven on medium heat on cook top and add oil
 3. Finely chop onion, garlic, celery and tomato and add to pot
 4. Chop carrot and red pepper and add to pot
-5. Add harissa (this is optional but gives a lovely flavour and heat).  Give it a good stir
+5. Add harissa (this is optional but gives a lovely flavour and heat). Give it a good stir
 6. Place the lamb shanks onto the veggies
 7. Cover with remaining ingredients
 8. Bake in oven for 3 hours or pressure cook for 50 minutes and leave to de-pressure/cool down without steam release
