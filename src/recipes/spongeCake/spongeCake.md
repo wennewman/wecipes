@@ -3,7 +3,7 @@ title: "Sponge cake"
 date: "2021-02-02"
 categories: "afternoon-tea"
 credit: "Ral Cogs"
-description: "This is a credit to Ral the sponge and scone queen; it's about 6 stories high if you have the skills... I do not hence the lack of photos.  I am still rubbish at sponges but it turns out I'm not a huge fan anyhoo.  I did learn in the test kitchen that the cooking time is important and it will sink in the centre if you overcook."
+description: "This is a credit to Ral the sponge and scone queen; it's about 6 stories high if you have the skills... I do not hence the lack of photos.  I am still rubbish at sponges but it turns out I'm not a huge fan anyhoo.  I did learn in the test kitchen that the cooking time is important and it will sink in the centre if you overcook"
 ---
 
 ###Ingredients

@@ -22,6 +22,6 @@ description: "These scones are so good straight out of the oven with butter"
 3. Add beaten egg then pumpkin
 4. Add sifted flour then chopped dates. Mix until just combined
 5. Turn out onto floured board and knead lightly then roll out to couple inches thick
-6. Cut out scones with scone cutter or with a knife into 2 inch squares if you don't have one
+6. Cut out scones with scone cutter or if you don't have one, with a knife into 2 inch squares
 7. Place on baking sheet and brush the tops with milk
 8. Bake for 12-15 minutes

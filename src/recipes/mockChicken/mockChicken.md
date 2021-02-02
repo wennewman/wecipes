@@ -8,7 +8,7 @@ description: "Mum used to make this as a sandwich spread.  It is a nostalgic rec
 
 ###Ingredients
 2 largeish tomatoes  
-1 small onion
+1 small onion  
 60g butter  
 110g grated cheese  
 1 cup soft bread crumbs  
