@@ -1,4 +1,3 @@
-
 {
   "header": {
     "reportVersion": 1,
@@ -122,9 +121,7 @@
   },
   "javascriptStack": {
     "message": "No stack.",
-    "stack": [
-      "Unavailable."
-    ]
+    "stack": ["Unavailable."]
   },
   "nativeStack": [
     {
@@ -271,8 +268,7 @@
       "writes": 4784
     }
   },
-  "libuv": [
-  ],
+  "libuv": [],
   "environmentVariables": {
     "ALLUSERSPROFILE": "C:\\ProgramData",
     "APPDATA": "C:\\Users\\wenne\\AppData\\Roaming",
