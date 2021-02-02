@@ -17,9 +17,9 @@ const IndexPage = () => {
         <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
           Gatsby
         </a>
-        ; the site is a work in progress, with more features being added as I learn (eg search, categorise, rate/review
-        etc). I'm also still adding recipes. This is a completely unrelated image of Ed after sticking his head in a
-        grave at the cemetery.
+        ; the site is a work in progress, with more features being added as I learn (eg search, categorise etc). I'm
+        also still adding recipes. This is a completely unrelated image of Ed after sticking his head in a grave at the
+        cemetery.
       </p>
       <Image />
     </Layout>

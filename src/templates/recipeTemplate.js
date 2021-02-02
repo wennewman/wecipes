@@ -32,11 +32,11 @@ const Recipe = props => {
       <div className={templateStyles.divider}>...</div>
       <div className={templateStyles.metaContainer}>
         <p>
-          <b>Some words:</b>
+          <b>Some words: </b>
           {props.data.markdownRemark.frontmatter.description}
         </p>
         <p>
-          <b>Added:</b> {props.data.markdownRemark.frontmatter.date}
+          <b>Added: </b> {props.data.markdownRemark.frontmatter.date}
         </p>
         <p>
           <b>Credit: </b>
