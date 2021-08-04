@@ -26,5 +26,5 @@ Grease and flour an 16cm tart tin
 4. Stir in the egg
 5. Add the almond meal and give it a good mix until its smooth
 6. Spread the paste over your tart case
-7. Top with sliced pears
+7. Top with sliced pears, leaving some of the almond paste uncovered
 8. Bake for 20-30 minutes
