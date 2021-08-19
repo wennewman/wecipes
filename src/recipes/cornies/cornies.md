@@ -3,19 +3,19 @@ title: "Cornflake biscuits"
 date: "2020-09-03"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "Sweet biscuits with sultanas and rolled in corn flakes"
+description: "Sweet biscuits with sultanas and rolled in corn flakes."
 ---
 
-Classic recipe from childhood. Set the oven to moderate 180ºc and line a baking sheet with baking paper before you start.
+Classic recipe from childhood. Set the oven to moderate 180ºc and line a baking sheet with baking paper before you start. NOTE: this is an old family recipe, so the cup measures used are an old tea cup (rather than an Aus 250ml measuring cup)
 
 ## Ingredients
 
-¼ lb butter
-½ cup sugar
-1 egg
-1 cup SR flour
-1 tsp vanilla essence
-2 cups cornflakes
+¼ lb butter  
+½ cup sugar  
+1 egg  
+1 cup SR flour  
+1 tsp vanilla essence  
+2 cups cornflakes  
 3/4 cup sultanas
 
 ## Method

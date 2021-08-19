@@ -15,7 +15,7 @@ description: "These are mum's chocolate forcer biscuits.  She made them only occ
 ½ tsp bi carb soda  
 1 tsp cinnamon  
 3 tbsp cocoa  
-1 egg  
+1 egg
 
 ###Method
 

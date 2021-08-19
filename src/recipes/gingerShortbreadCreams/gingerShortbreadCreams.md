@@ -8,6 +8,7 @@ description: "Mum's recipe from Aunty Rube; she used to use the bikky forcer for
 
 ![Ginger shortbread creams](./gingerCreams.jpg)
 
+**NOTE**: This is an old family recipe, so the cup measures used are an old English style afternoon tea cup (rather than an Aus 250ml measuring cup)
 ###Ingredients
 ½lb butter  
 2½ cups flour  
