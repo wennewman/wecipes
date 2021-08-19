@@ -1,21 +1,21 @@
 ---
 title: "Chocolate cream biscuits"
-date: "2020-08-18"
+date: "2021-08-16"
 categories: "afternoon-tea"
 credit: "Yvonne"
-description: "These are mum's chocolate forcer biscuits.  She made them only occasionally as a treat and we totally devoured them.  My forcer bugged out mid verification testing, so I made a sausage out of the rest of the mix and sliced them up with a really thin blade"
+description: "These are mum's chocolate forcer biscuits.  She made them only occasionally as a treat and we totally devoured them.  My forcer bugged out mid verification testing, so I made a sausage out of the rest of the mix and sliced them up with a really thin blade.  This has been updated on the date above as the cup measures are ambiguous.  Mum used to use an old style tea cup so I tried with this today.  They turned out much better, so an update August 2021 removing the ambiguity in quantity... you know baking and science n stuff?"
 ---
 
 ![Chocolate cream biscuits](./chocCreams.jpg)
 ###Ingredients
-2 cups flour  
-½ cup butter  
-1 cup sugar  
+250g flour  
+100g butter  
+175g sugar  
 ½ tsp baking powder  
 ½ tsp bi carb soda  
-½ tsp cinnamon  
+1 tsp cinnamon  
 3 tbsp cocoa  
-1 egg
+1 egg  
 
 ###Method
 
