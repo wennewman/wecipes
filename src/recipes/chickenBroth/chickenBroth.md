@@ -10,25 +10,25 @@ description: "I'm pretty excited about this now as I have refined the base flavo
 
 I use a pressure cooker for making stock; it only takes an hour once it is up to pressure. Alternatively you can keep a slow rolling simmer in a large stock pot for 2-4 hours.  NOTE: The more chopped surface area on the veggies,the more veggie flavour can get out.  I used to just cut them all in half but learned at culinary school to chop them up.  There is definitely a benefit to cutting them up, but versus bought chicken stock, it is still infinitely better.  
 
-##Ingredients
-2kg chicken bones (I frames, wings or necks - whatever I find on special.  You can also use a whole chook)
-2 large carrots, washed and chopped
-2 large onions, peeled and chopped roughly
-4 sticks of celery roughly chopped
-3 garlic cloves
-1 tbsp black peppercorns
-1 tbsp salt
-3 bay leaves
-2 sprigs of thyme
-bunch of parsley - curly or flat
+##Ingredients  
+2kg chicken bones (I frames, wings or necks - whatever I find on special.  You can also use a whole chook)  
+2 large carrots, washed and chopped  
+2 large onions, peeled and chopped roughly  
+4 sticks of celery roughly chopped  
+3 garlic cloves  
+1 tbsp black peppercorns  
+1 tbsp salt  
+3 bay leaves  
+2 sprigs of thyme  
+bunch of parsley - curly or flat  
 6 litres cold water
 
 **Optional items:**  
-Parmesan cheese rind (I throw these in the freezer once I finish the cheese block to use for stock)
-1 punnet of mushrooms, skins wiped
-1 leek, roots removed and well washed, chopped the size of onions and carrots
-1 tomato
-1 slice of lemon rind
+Parmesan cheese rind (I throw these in the freezer once I finish the cheese block to use for stock)  
+1 punnet of mushrooms, skins wiped  
+1 leek, roots removed and well washed, chopped the size of onions and carrots  
+1 tomato  
+1 slice of lemon rind  
 
 ###Method
 
